@@ -26,7 +26,7 @@ AltoroJ has been developed using Eclipse and designed to run on Tomcat 7, but si
 
 # AltoroJ credentials
 Main usernames and passwords for AltoroJ are as follows:
-- jsmith/demo1234 
+- jsmith/demo1234  
 - admin/admin
 
 
